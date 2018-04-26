@@ -4,7 +4,7 @@ I mainly just made this for fun, as it is most definitely taking a more straight
 
 It first gathers the list of cypher characters, and the top words from all of the Zodiac letters.
 
-The fitness for each organism is calculated by the number of words from that word list that are present when decoded using the organisms key. Words that are less frequent are given a higher fitness value. If the count of a particular word exceeds a threshold, then the threshold is used for the calculation. This is to prevent the genetic algorithm from breeding an organism that deciphers the code with just a ton of the same word.
+The fitness for each organism is calculated by the number of words from that word list that are present when decoded using the organism's key. Words that are less frequent are given a higher fitness value. If the count of a particular word exceeds a threshold, then the threshold is used for the calculation. This is to prevent the genetic algorithm from breeding an organism that deciphers the code with just a ton of the same word.
 
 Breeding pairs are selected by taking the one's that exceed the breeding fitness level, and randomly separating them into pairs.
 
