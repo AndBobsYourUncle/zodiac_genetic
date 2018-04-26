@@ -16,7 +16,7 @@ Organisms that do not exceed the unfit level also die off.
 
 It obviously doesn't work that well, but it was fun trying to implement something like this.
 
-There is obviously some work that could be done in factoring in gramatical rules when determining the fitness level, etc.
+There is definitely some work that could be done in factoring in gramatical rules when determining the fitness level, etc.
 
 ## Running It
 
