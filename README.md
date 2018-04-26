@@ -15,3 +15,7 @@ The population is culled if it exceeds the overpopulation threshold by removing 
 Organisms that do not exceed the unfit level also die off.
 
 It obviously doesn't work that well, but it was fun trying to implement something like this.
+
+## Running It
+
+Just clone and run `ruby cypher.rb`. I coded this with Ruby 2.5.1. If you run `ruby -v` and get something lower, I'd recommend installing RVM and using it to install the latest Ruby version.
