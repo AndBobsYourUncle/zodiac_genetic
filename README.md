@@ -16,6 +16,8 @@ Organisms that do not exceed the unfit level also die off.
 
 It obviously doesn't work that well, but it was fun trying to implement something like this.
 
+There is obviously some work that could be done in factoring in gramatical rules when determining the fitness level, etc.
+
 ## Running It
 
 Just clone and run `ruby cypher.rb`. I coded this with Ruby 2.5.1. If you run `ruby -v` and get something lower, I'd recommend installing RVM and using it to install the latest Ruby version.
